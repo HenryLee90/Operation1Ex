@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\bin\Debug\net5.0\OperationExersize.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\refint\OperationExersize.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\OperationExersize.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\OperationExersize\OperationExersize\obj\Debug\net5.0\ref\OperationExersize.dll
