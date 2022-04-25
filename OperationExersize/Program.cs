@@ -29,11 +29,29 @@ namespace OperationExersize
             Console.WriteLine(quoitent);
             Console.WriteLine(remainder);
             Console.WriteLine($" {a} / {b} is  {quoitent}");
-            Console.WriteLine($"the remainder of {a} % {b} is remainder {remainder}");
+            Console.WriteLine($"the remainder of {a} % {b} is remainder of {remainder}");
 
 
 
 
+
+        }
+
+        private static double AreaOfCircle(double r)
+        {
+
+            return Math.PI * Math.Pow(r, 2);
+
+
+        }
+
+        private static void Something()
+        {
+
+            Console.WriteLine("Please enter the radius: ");
+            double radius = double.Parse(Console.ReadLine());
+            double area = AreaOfCircle(radius);
+            Console.WriteLine(area);
 
         }
     }
